@@ -48,6 +48,7 @@ OLSK Large Laser has been designed and built by **[InMachines Ingrassia GmbH](ht
 
 <br>
 Machine design:
+
 - **[Daniele Ingrassia](https://www.linkedin.com/in/danieleingrassia/)**
 
 The machine is part of the **[Open Lab Starter Kit (OLSK)](https://www.inmachines.net/open-lab-starter-kit)** group of open source digital fabrication machines.
