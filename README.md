@@ -31,18 +31,24 @@ Specifications V1
 --
 
 - laser source: 75W CO2
+- cooling system: water chiller
 - cutting area: 1000 x 700 mm
 - precision: 0.05 mm
 - max. cutting thickness:
     - 25 mm wood
+    - 10 mm acrylic
 - frame and housing: 3 and 4mm CNC milled aluminum plates
 - motion: HTD 5M belts
-- max speed: 1000mm/s
+- max speed: 1000 mm/s
 - bed: aluminum lamella
 - guides: 15mm linear rail, 25mm linear shafts
 - motors: stepper motors NEMA 24
 - machine dimensions: 1520 x 1120 x 400 mm (WxDxH)
+- firmware: GRBL-LPC firmware and MKS-SBASE
+- custom PCB for signal handling
 - with coaxial laser pointer
+- completely enclosed housing
+- homing with inductive sensors
 
 <img src="media/OLSK Large Laser3_low-res.jpg" width="100%">
 
