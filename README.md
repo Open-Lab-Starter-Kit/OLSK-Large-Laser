@@ -9,7 +9,7 @@
 Introduction
 --
 
-The OLSK Large Laser V1 is a powerful 75W CO2 laser cutter with large cutting area of 1000 x 700 mm. It can move at a high speed and precision of 0.05mm. With an innovative slim design (1520 x 1120 x 400 mm W x D x H), it is build with a full aluminum and an isolated cutting chamber, separated from the mechanics, electronics and laser optics. It includes a coaxial laser pointer and homing with inductive sensors. As an open soource machine, it can be replicable in most Fab Labs and also industrially. The building also have been simplified, compared to its predecessor Fabulaser Mini V2, with reduced number of parts and easier assembly process and laser calibration.
+The OLSK Large Laser V1 is a powerful 75W CO2 laser cutter with large cutting area of 1000 x 700 mm. It can move at a high speed and precision of 0.05mm. With an innovative slim design (1520 x 1120 x 400 mm W x D x H), it is build with a full aluminum and an isolated cutting chamber, separated from the mechanics, electronics and laser optics. It includes a coaxial laser pointer and homing with inductive sensors. As an open source machine, it can be replicable in most Fab Labs and also industrially. The building have been simplified, compared to its predecessor Fabulaser Mini V2, with reduced number of parts and easier assembly process and laser calibration.
 
 <img src="media/Highlights.jpg" width="100%">
 
