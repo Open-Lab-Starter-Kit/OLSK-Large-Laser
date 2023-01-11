@@ -36,6 +36,8 @@ Files
 --
 
 - **[CAD](cad)**
+- **[Assembly Workbook](OLSK_Large_Laser_V1_Assembly_Workbook.pdf)**
+- **[Wiring Schematic](OLSK_Large_Laser_V1_WiringSchematic_Board2022.pdf)**
 
 Author
 --
