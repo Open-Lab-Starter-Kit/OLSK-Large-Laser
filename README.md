@@ -57,7 +57,7 @@ Files
 
 - **[CAD](cad)**
 - **[PCB](PCB)**
-- **[BOM](BOM)**
+- **[BOM](Large_Laser_V1_BOM.pdf)**
 - **[Assembly Workbook](OLSK_Large_Laser_V1_Assembly_Workbook.pdf)**
 - **[Wiring Schematic](OLSK_Large_Laser_V1_WiringSchematic_Board2022.pdf)**
 
