@@ -57,9 +57,11 @@ Files
 
 - **[CAD](cad)**
 - **[PCB](PCB)**
+- **[Firmware](grblHAL_Teensy4_OLSK_Large_Laser.zip)**
 - **[BOM](Large_Laser_V1_BOM.pdf)**
 - **[Assembly Workbook](OLSK_Large_Laser_V1_Workbook.pdf)**
 - **[Wiring Schematic](OLSK_Large_Laser_V1_WiringSchematic_Board2022.pdf)**
+- **[Settings](OLSK_Large_Laser.vcsettings)**
 
 Author
 --
