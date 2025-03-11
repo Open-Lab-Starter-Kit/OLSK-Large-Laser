@@ -10,7 +10,7 @@ import { Select, Outline, EffectComposer, Selection, Glitch } from "@react-three
 import { OutlinePass } from "three/examples/jsm/postprocessing/OutlinePass.js";
 import Highlight from "./Highlight.jsx";
 import { BlendFunction, Resizer } from "postprocessing";
-import { computeBoundsTree, disposeBoundsTree, acceleratedRaycast } from 'three-mesh-bvh';
+//import { computeBoundsTree, disposeBoundsTree, acceleratedRaycast } from 'three-mesh-bvh';
 import * as THREE from 'three';
 import * as BufferGeometryUtils from 'three/examples/jsm/utils/BufferGeometryUtils.js'
 import { MemoizedModelAux } from "./ModelAux.jsx";
@@ -39,9 +39,9 @@ const stepsNamesNavi = []
 export default function Model({ modelIn, modelOut, modelInCopy, modelInCopy2, modelOutCopy }) {
 
     //Bvh - for selecting parts by clicking on the 3d model
-    THREE.BufferGeometry.prototype.computeBoundsTree = computeBoundsTree;
+/*     THREE.BufferGeometry.prototype.computeBoundsTree = computeBoundsTree;
     THREE.BufferGeometry.prototype.disposeBoundsTree = disposeBoundsTree;
-    THREE.Mesh.prototype.raycast = acceleratedRaycast;
+    THREE.Mesh.prototype.raycast = acceleratedRaycast */;
 
     console.log("render count")    //counts how many times the Model is executed
 
