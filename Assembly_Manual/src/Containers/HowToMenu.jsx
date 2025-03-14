@@ -20,7 +20,7 @@ export default function HowToMenu() {
 
     useEffect(() => {
         //Get data from the Workbook 
-        axios.get('https://sheets.googleapis.com/v4/spreadsheets/1GS88O0KVbPsdDfFYZyhw8QDcmzQE2Av4TtVoGLWwKnc/values/Workbook?key=AIzaSyCqcO7MQv4dsj76ps3nNJnMwTT8Cvqv-eM')
+        axios.get('https://sheets.googleapis.com/v4/spreadsheets/1grTucZ2sqLgZ4AtJq8EkyO__kLg-pazRVl3sbLNMaIY/values/Workbook?key=AIzaSyCqcO7MQv4dsj76ps3nNJnMwTT8Cvqv-eM')
             .then(response => {
 
                 let ourData = response.data.values;
