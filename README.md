@@ -24,7 +24,8 @@ All OLSK machines are open source and have an assembly manual, the BOM and neces
 
 Specifications V3
 --
-
+- machine external dimensions: W1370mm x D1150mm H380mm
+- working area: 1000mm x 700mm
 - multilaser source compatibility: RF CO2 60W, RF CO2 40W, Diode 40W
 - automatic laser source management
 - tool changer with magnetic kinematic coupling heads
