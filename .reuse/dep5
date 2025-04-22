@@ -1,0 +1,67 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: OLSK-Large-Laser
+Upstream-Contact: Daniele Ingrassia <daniele@inmachines.net>
+Source: https://github.com/Open-Lab-Starter-Kit/OLSK-Large-Laser.git
+
+##########################
+# OLSK Large Laser V3
+##########################
+
+Files:
+    Assembly_Manual/**
+    settings/**
+    README.md
+    .gitattributes
+    .gitignore
+Copyright:
+    Daniele Ingrassia <daniele@inmachines.net>
+    Tobias Redlich <tobias.redlich@hsu-hh.de>
+License: AGPL-3.0-or-later
+
+Files:
+    firmware/Large_Laser_V2_tool_changer.zip
+Copyright:
+    Daniele Ingrassia <daniele@inmachines.net>
+    Tobias Redlich <tobias.redlich@hsu-hh.de>
+License: AGPL-3.0-or-later
+
+# GRBLHAL
+Files:
+    firmware/grblHAL_Teensy4.zip
+Copyright: Various
+License: GPL-3.0-or-later
+
+Files:
+    Assembly_Manual/public/**
+    media/**
+Copyright:
+    Daniele Ingrassia <daniele@inmachines.net>
+    Tobias Redlich <tobias.redlich@hsu-hh.de>
+License: CC-BY-SA-4.0
+
+# The fonts in this directory are under various licenses.
+# Please refer to the license notice in each individual file.
+Files: Assembly_Manual/public/fonts/**
+Copyright: Various authors
+License: LicenseRef-Magenta
+
+
+Files:
+    OLSK_Large_Laser_V3_BOM.xlsx
+    OLSK_Large_Laser_V3_WiringSchematic.pdf
+    cad/**
+Copyright:
+    Daniele Ingrassia <daniele@inmachines.net>
+    Tobias Redlich <tobias.redlich@hsu-hh.de>
+License: CERN-OHL-W-2.0
+
+Files:
+    LICENSE.txt
+    LICENSE_CC_BY_SA_4.0.txt
+    LICENSE_CERN_OHL_W_V2.txt
+Copyright: NONE
+License: CC0-1.0
+
+##################################
+# OLSK Large Laser V1, V2 TBD
+##################################

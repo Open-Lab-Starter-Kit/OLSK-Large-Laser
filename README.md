@@ -55,7 +55,7 @@ Files
 - **[Firmware](firmware)**
 - **[Settings](settings)**
 - **[Wiring Schematic](OLSK_Large_Laser_V3_WiringSchematic.pdf)**
-  
+
 Author
 --
 
@@ -85,6 +85,9 @@ Contact
 License
 --
 
+See the LICENSES folder and the SPDX metadata for more details on other files.  The project
+is [REUSE](https://reuse.software/) compliant
+
 Hardware design, CAD and PCB files, BOM, settings and other technical or design files are released under the following license:
 
 - CERN Open Hardware Licence Version 2 Weakly Reciprocal - **[CERN-OHL-W](LICENSE_CERN_OHL_W_V2.txt)**
@@ -93,11 +96,11 @@ Assembly manual, pictures, videos, presentations, description text and other typ
 
 - Creative-Commons-Attribution-ShareAlike 4.0 International - **[CC BY-SA 4.0](LICENSE_CC_BY_SA_4.0.txt)**
 
-  
+
 Previous version
 --
 
-Previous versions of OLSK machines will always be available. 
+Previous versions of OLSK machines will always be available.
 
-**[OLSK Large Laser V1 Repository](OLSK_Large_Laser_V1)** 
+**[OLSK Large Laser V1 Repository](OLSK_Large_Laser_V1)**
 <div><img src="media/OLSK-Large-Laser.jpg" width="30%"></div>
